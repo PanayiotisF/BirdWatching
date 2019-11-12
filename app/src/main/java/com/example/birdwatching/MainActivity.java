@@ -31,7 +31,7 @@ Button buttonSubmit, buttonGoToSearch;
 
 
     }
-
+//
     @Override
     public void onClick(View v) {
         FirebaseDatabase database = FirebaseDatabase.getInstance();
